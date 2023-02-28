@@ -9,6 +9,6 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<xiaobing1103>.github.io/<REPO>
-git push -f git@github.com:eryiBlog.io.git master:gh-pages
+git push -f git@github.com:xiaobing1103/eryiBlog.io.git master:gh-pages
 
 cd -
