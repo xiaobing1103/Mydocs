@@ -2,13 +2,12 @@
 
 # 二姨的文档
 
-> 使用Vue全家桶+Node.js搭建的小型全栈项目.
+> 始于js,终于js.
 
-* 前端框架：vue-cli、vue-router、axios、vuex
-* UI类库：Mint-UI、Vant
-* 后端数据接口：Express、MongoDB
+* 前端框架：vue、angular、react
+* 打包类库：webpack、gulp
+* 后端：nodejs、MongoDB、express
 
 [我的博客](http://42.192.85.86:81/#)
-[GitHub](https://github.com)
-[Getting Started](#quick-start)
+[快速开始](#快速开始)
 

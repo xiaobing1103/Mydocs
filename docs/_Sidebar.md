@@ -73,12 +73,10 @@
   * [jQuery高级](doc/jQuery/03.jQuery高级)
 
 * Less
-  
-* [Less](doc/Less/Less)
+  * [Less](doc/Less/Less)
   
 * ES5
-  
-* [ES5](doc/ES5/ES5)
+  * [ES5](doc/ES5/ES5)
   
 * ES6
   * [ECMA简介](doc/ES6/ECMA简介)
@@ -99,7 +97,7 @@
 
 * Git&GitHub
   * [Git配置](doc/Git/Git初始配置)
-  * [GitHub](doc/GitHub/gitHub)
+  * [GitHub](doc/GitHub/git)
 
 * NodeJs
   * [NodeJS概述](doc/Nodejs/NodeJS概述)
@@ -115,16 +113,13 @@
   * [浏览器储存](doc/Http/浏览器储存)
 
 * mongoDB
-  
-* [mongoDB使用](doc/mongoDB/mongoDB)
+  * [mongoDB使用](doc/mongoDB/mongoDB)
   
 * express
-  
-* [express使用](doc/express/express)
+  * [express使用](doc/express/express)
   
 * Ajax
-  
-* [Ajax](doc/NodeJs/Ajax)
+  * [Ajax](doc/NodeJs/Ajax)
   
 * JS模块化
   * [模块化概览](doc/JS模块化/0.模块化概览)
@@ -156,8 +151,7 @@
   * [vue路由](doc/vue/README_路由)
   * [vue组件化](doc/vue/README_组件化)
   * [vue源码分析](doc/vue/README_源码分析)
-* [vue](doc/vue/vue)
-  
+
 * axios
   * [HTTP相关](doc/axios/axios)
   * [XHR的理解和使用](doc/axios/axios-2)
@@ -208,6 +202,17 @@
   * [快速上手](doc/前端数据结构与算法掘金小册/快速上手)
   * [栈和队列](doc/前端数据结构与算法掘金小册/栈和队列)
 
+* TypeScript
+  * [Typescript简介](doc/typeScript/Typescript简介)
+  * [TypeScript常用语法](doc/typeScript/TypeScript常用语法)
 
-* 酷狗音乐接口文档
-  * [酷狗音乐接口文档](doc/酷狗音乐接口文档/酷狗音乐接口文档)
+* angular
+  * [Angular介绍](doc/angular教程/01Angular介绍)
+  * [Angular目录结构分析](doc/angular教程/02Angular目录结构分析)
+  * [angular组件](doc/angular教程/03angular组件)
+  * [angular表单](doc/angular教程/04angular表单)
+  * [angular实现todoList](doc/angular教程/05angular实现todoList)
+  * [angular服务](doc/angular教程/06angular服务)
+  * [angularDOM操作](doc/angular教程/07angularDOM操作)
+
+
