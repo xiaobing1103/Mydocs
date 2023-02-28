@@ -13,7 +13,8 @@
 <body>
     <div data-app id="main" class="heart"></div>
   <script>
-    window.$docsify = {
+    setTimeout(()=>{
+      window.$docsify = {
       name: '二姨的文档',
       repo: "https://github.com/xiaobing1103",
       logo: '/icon/app.ico',
@@ -22,6 +23,8 @@
       subMaxLevel:3,
       el: '#main'
     }
+    },3000)
+    
   </script>
   <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
   <script src="./docsify.js"></script>
