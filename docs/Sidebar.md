@@ -47,8 +47,6 @@
   * [JS字符串](doc/JS基础/09.JS字符串)
   * [Math对象](doc/JS基础/10.Math对象)
   * [Date对象](doc/JS基础/11.Date对象)
-  <!-- * [对象的方法](doc/JS基础/12.对象的方法)
-  * [数组的方法](doc/JS基础/13.数组的方法) -->
 
 * JavaScriptDOM/BOM
   * [BOM对象](doc/JSDOM/01.BOM对象)
@@ -119,7 +117,7 @@
   * [express使用](doc/express/express)
   
 * Ajax
-  * [Ajax](doc/NodeJs/ajax)
+  * [Ajax](doc/Nodejs/ajax)
   
 * JS模块化
   * [模块化概览](doc/JS模块化/0.模块化概览)
